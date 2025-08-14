@@ -18,7 +18,6 @@ The game loads words from a CSV file, displays them in two columns, and lets you
 ## 📂 CSV File Format
 The CSV file must contain **two columns**:
 ```csv
-German,English
 aufstehen,to get up
 anrufen,to call
 ...
