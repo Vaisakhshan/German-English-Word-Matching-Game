@@ -6,7 +6,7 @@ The game loads words from a CSV file, displays them in two columns, and lets you
 ---
 
 ## ✨ Features
-- Loads word pairs from a **CSV file** (`trennbare_verben_1.csv` by default).
+- Loads word pairs from a **CSV file** (`german_words&transaltions.csv` by default).
 - Randomly selects 6 pairs per round.
 - Interactive **GUI with Tkinter**.
 - Highlights selected words and marks correct matches in green.
